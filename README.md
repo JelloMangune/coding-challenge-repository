@@ -17,6 +17,11 @@
 ### Problem Set 3: Longest Increasing Subsequence
 🔍 Description: Given an unsorted array of integers, find the length of the longest increasing subsequence.
 
+## Fork or Download
+⬇️ To fork this repository or download it directly:
+- **Fork:** Click the "Fork" button at the top right of this repository page. This will create a copy of the repository in your GitHub account. After having a copy of the repository, you can then clone it to your local machine.
+- **Download ZIP:** Click the "Code" button above, and select "Download ZIP". Extract the downloaded file to your desired location.
+
 ## Installation and Usage
 🚀 To run the Python scripts:
 1. Download and install Python from (https://www.python.org/).
